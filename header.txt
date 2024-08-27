@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+    <title>Hatchling Probability Calculator</title>
+
+    <link href='./plugin/chosen/chosen.min.css' rel='stylesheet' type='text/css'></link>
+    <link rel="stylesheet" type="text/css" href="./css/style.css"></link>
+    <link rel="stylesheet" type="text/css" href="./css/chosen-skin.css"></link>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript" src="./plugin/chosen/chosen.jquery.min.js"></script>
+    <script type="text/javascript" src="./js/math.js"></script>
+    <script type="text/javascript" src="./js/functional.js"></script>
+    <script type="text/javascript" src="./js/colorrange.js"></script>
+    <script type="text/javascript" src="./js/data.js"></script>
+    <script type="text/javascript" src="./js/importer.js"></script>
+</head>
+<body>
+
+<div class="header"><h2><b>Flight Rising Hatchling Probability Calculator</b></h2>
+<span class="desc">
+  Made by <a href="https://flightrising.com/main.php?p=lair&tab=userpage&id=38708">mechanical</a> |
+  Based on the <a href="https://www1.flightrising.com/forums/gde/3231610"> breeding rarity thread</a> |
+  Found a problem? <a href="https://www1.flightrising.com/forums/gde/3057553">Tell me</a>.
+</span>
+</div>
+
+
+<div class="content">
+  <!-- tabs-->
+  <div class="tab">
