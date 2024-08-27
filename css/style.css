@@ -71,7 +71,7 @@ body {
 
 .tabcontent button {
   margin: 1%;
-  width: 100px;
+  width: 150px;
   height: 25px;
   background-color: #e58e32;
   background-image: linear-gradient(#ffce6a 20%, #ef9f35 50%, #e58e32 52%, #dd751e 100%);
